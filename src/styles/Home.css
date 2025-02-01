@@ -1,0 +1,15 @@
+
+
+#Loginbutton{
+    display:  flex;
+
+}
+#Login{
+    display: flex;
+}
+button{
+    color: blue;
+    border:  1px solid white;
+    
+ 
+}
